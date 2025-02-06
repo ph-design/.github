@@ -20,7 +20,7 @@ Special appreciation to industry leaders enabling our work:
 
 🏭 [**JLCPCB**](https://www.jlc.com/) **- Production-grade PCB capabilities**
 
-## Open Commitment :octocat
+## Open Commitment 📖
 
 PH60 is community-driven with complete transparency:
 
@@ -32,4 +32,4 @@ PH60 is community-driven with complete transparency:
 
 ## Resources
 
-[**PH60 GitHub Repo](https://github.com/ph-design/PH60) | [QMK Firmware Docs](https://docs.qmk.fm/) | [Raspberry Pi Pico Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html) | [KiCad Learning Portal](https://www.kicad.org/help/learning-resources/)**
+**[PH60 GitHub Repo](https://github.com/ph-design/PH60) | [QMK Firmware Docs](https://docs.qmk.fm/) | [Raspberry Pi Pico Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html) | [KiCad Learning Portal](https://www.kicad.org/help/learning-resources/)**
