@@ -17,32 +17,26 @@
 
 ### How we work
 
-<table>
-  <tr>
-    <td width="120" valign="top"><strong>Design</strong></td>
-    <td>
-      <img src="icons/blender.svg" height="14" align="center" />&nbsp;Blender<br/>
-      <img src="icons/shapr3d-icon.svg" height="14" align="center" />&nbsp;Shapr3D<br/>
-      <img src="icons/bambustudio.png" height="14" align="center" />&nbsp;Bambu&nbsp;Studio
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Electronics</strong></td>
-    <td>
-      <img src="icons/kicad.svg" height="22" align="center" />&nbsp;KiCad<br/>
-      <img src="icons/easyeda.svg" height="14" align="center" />&nbsp;LCEDA
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Firmware</strong></td>
-    <td>
-      <img src="icons/qmk.svg" height="14" align="center" />&nbsp;QMK<br/>
-      <img src="icons/zmk.svg" height="16" align="center" />&nbsp;ZMK<br/>
-      <img src="icons/arduino.svg" height="14" align="center" />&nbsp;Arduino<br/>
-      <img src="icons/vscode.svg" height="14" align="center" />&nbsp;VS&nbsp;Code
-    </td>
-  </tr>
-</table>
+<p align="center"><strong>Design</strong></p>
+<p align="center">
+  <img src="icons/blender.svg" height="14" align="absmiddle" alt="Blender" /> Blender ·
+  <img src="icons/shapr3d-icon.svg" height="14" align="absmiddle" alt="Shapr3D" /> Shapr3D ·
+  <img src="icons/bambustudio.png" height="14" align="absmiddle" alt="Bambu Studio" /> Bambu Studio
+</p>
+
+<p align="center"><strong>Electronics</strong></p>
+<p align="center">
+  <img src="icons/kicad.svg" height="22" align="absmiddle" alt="KiCad" /> KiCad ·
+  <img src="icons/easyeda.svg" height="14" align="absmiddle" alt="LCEDA" /> LCEDA
+</p>
+
+<p align="center"><strong>Firmware</strong></p>
+<p align="center">
+  <img src="icons/qmk.svg" height="14" align="absmiddle" alt="QMK" /> QMK ·
+  <img src="icons/zmk.svg" height="16" align="absmiddle" alt="ZMK" /> ZMK ·
+  <img src="icons/arduino.svg" height="14" align="absmiddle" alt="Arduino" /> Arduino ·
+  <img src="icons/vscode.svg" height="14" align="absmiddle" alt="VS Code" /> VS Code
+</p>
 
 ### Special thanks
 
